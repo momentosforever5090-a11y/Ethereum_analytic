@@ -4,3 +4,4 @@ plotly
 flask-wtf
 flask-login
 python-dotenv
+gunicorn
