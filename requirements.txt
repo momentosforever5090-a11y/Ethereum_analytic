@@ -1,0 +1,6 @@
+Flask
+dash
+plotly
+flask-wtf
+flask-login
+python-dotenv
